@@ -10,3 +10,6 @@ The BiLSTM model employs a bidirectional LSTM architecture to capture contextual
 
 **BERT Model**
 The BERT model utilizes the pre-trained BERT (bert-base-uncased) architecture for relation extraction. It leverages the transformer-based architecture to understand contextual embeddings and predict relations.
+
+**Contributions**
+Contributions are welcome! Feel free to open issues for bug reports or new feature suggestions. Pull requests are also encouraged.
